@@ -1,0 +1,10 @@
+.ButtonMI {
+  width: 50%;
+  margin: auto;
+  padding: 0 auto;
+  background: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
