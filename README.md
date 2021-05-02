@@ -5,4 +5,4 @@ import {
   FormControlChakra,
   ButtonMU,
   HoverButtonUiKit
-} from "innowise-test-npm";
+} from "innowisegroup-test-npm";
