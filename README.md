@@ -1,8 +1,5 @@
-import {
-  Button,
+export {
   ButtonTS,
-  Form,
-  FormControlChakra,
-  ButtonMU,
-  HoverButtonUiKit
-} from "innowisegroup-test-npm";
+  Button,
+  ButtonMaterialUI
+};
